@@ -4,7 +4,7 @@
 ### Finding a new job(based in Chengdu) 🤔
 Contact through:
 ```
-echo NTE2MTI3OTQxQHFxLmNvbQ==|base64 -d
+echo bGl4aWFuZ2Rvbmdkc2tAZ21haWwuY29t|base64 -d
 ```
 <!--
 **RyoLee/RyoLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
