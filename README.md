@@ -6,6 +6,7 @@ Contact through:
 ```
 echo bGl4aWFuZ2Rvbmdkc2tAZ21haWwuY29t|base64 -d
 ```
+or create a new issue [here](https://github.com/RyoLee/RyoLee/issues/new)
 <!--
 **RyoLee/RyoLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
