@@ -1,7 +1,7 @@
 [![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyoLee&line_height=24.5&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyoLee&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-### Finding a new job(based in Chengdu) 🤔
+<!-- ### Finding a new job(based in Chengdu) 🤔-->
 Contact through:
 ```
 echo bGl4aWFuZ2Rvbmdkc2tAZ21haWwuY29t|base64 -d
