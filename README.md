@@ -12,5 +12,5 @@
 - DN42 Network - AS4242420911
 
 #### Contact
-- Email: [pa.ryo@qq.com](mailto:pa.ryo@qq.com)
+- Email: [pa.ryo@outlook.com](mailto:pa.ryo@outlook.com)
 - Github: [creating an issue](https://github.com/RyoLee/RyoLee/issues/new)
